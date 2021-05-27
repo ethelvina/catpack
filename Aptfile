@@ -7,24 +7,4 @@ zip
 neofetch
 screenfetch
 git
-build-essential
-kernel-package fakeroot
-libncurses5-dev
-libssl-dev
-ccache
-bison
-flex
-libelf-dev
-dwarves
-jfsutils
-reiserfsprogs
-xfsprogs
-squashfs-tools
-btrfs-progs
-pcmciautils
-procps
-oprofile
-udev
-iptables
-openssl
-bc
+
