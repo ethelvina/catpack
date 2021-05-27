@@ -22,16 +22,9 @@ xfsprogs
 squashfs-tools
 btrfs-progs
 pcmciautils
-quota-tools
-isdn4k-utils
-nfs-utils
 procps
 oprofile
 udev
-grub
-mcelog
 iptables
 openssl
-libcrypto
-Sphinx
-PPP
+bc
