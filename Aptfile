@@ -4,6 +4,8 @@ mediainfo
 p7zip-full
 unzip
 zip
+neofetch
+screenfetch
 git
 build-essential
 kernel-package fakeroot
